@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-sample" />
+        <module name="springcloud-config-client" />
+        <module name="springcloud-config-server" />
+        <module name="springcloud-eureka-client" />
+        <module name="springcloud-eureka-consumer" />
+        <module name="springcloud-eureka-consumer-feign" />
+        <module name="springcloud-eureka-ribbon" />
+        <module name="springcloud-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot-demo" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="spring-cloud-parent" target="1.8" />
+      <module name="springboot-sample" target="1.8" />
+      <module name="springcloud-config-client" target="1.8" />
+      <module name="springcloud-config-server" target="1.8" />
+      <module name="springcloud-consul-client" target="1.8" />
+      <module name="springcloud-consul-server" target="1.8" />
+      <module name="springcloud-eureka-client" target="1.8" />
+      <module name="springcloud-eureka-client (1)" target="1.8" />
+      <module name="springcloud-eureka-consumer" target="1.8" />
+      <module name="springcloud-eureka-consumer-feign" target="1.8" />
+      <module name="springcloud-eureka-ribbon" target="1.8" />
+      <module name="springcloud-eureka-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
