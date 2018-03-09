@@ -1,2 +1,3 @@
 info:
   profile: prod
+from: git-prod-1.0
